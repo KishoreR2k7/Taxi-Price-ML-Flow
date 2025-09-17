@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/256695303465434382/d40e67cdda3447fab9cb1d2c80dbb932/artifacts
+deleted_time: 1757961554293
+end_time: 1757961338862
+entry_point_name: ''
+experiment_id: '256695303465434382'
+lifecycle_stage: deleted
+run_id: d40e67cdda3447fab9cb1d2c80dbb932
+run_name: Linear Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757961331422
+status: 3
+tags: []
+user_id: kishore

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/256695303465434382/057d742719c34ef48406cf3c39152686/artifacts
+deleted_time: 1757962594164
+end_time: 1757962023790
+entry_point_name: ''
+experiment_id: '256695303465434382'
+lifecycle_stage: deleted
+run_id: 057d742719c34ef48406cf3c39152686
+run_name: Random Forest Regressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757962018850
+status: 3
+tags: []
+user_id: kishore
